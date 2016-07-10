@@ -93,3 +93,12 @@ width: 30%;
 .twitter ,.google{
     background-color: #352D2F; 
 }
+
+
+/*fonts*/
+h1,h2.h3,input{
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
