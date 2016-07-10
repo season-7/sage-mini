@@ -58,5 +58,38 @@
 
 /*journal*/
 h3{
-    font-size: 20px;
+    font-size: 15px;
+}
+
+
+/*links*/
+.links{
+    height: 300px;
+    width: 100%;
+    background-color: #352D2F; 
+}
+.links img{
+    padding: 50px;
+}
+
+/*footer*/
+input{
+width: 30%;    
+}
+
+.social{
+    width: 50%;
+    height: 200px;
+}
+.fb ,.twitter ,.google ,.pin{
+    height: 100px;
+    width: 50%;
+    
+    
+}
+.fb ,.pin{
+    background-color: #726D6E;
+}
+.twitter ,.google{
+    background-color: #352D2F; 
 }
