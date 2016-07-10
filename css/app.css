@@ -31,4 +31,32 @@
 .space{
     height: 100px;
     width: 100%;
+    background-color: #352D2F;
+}
+
+
+/*services*/
+.services{
+    background-color: whitesmoke;
+    height: 400px;
+    width: 100%;
+    
+}
+.top{
+    margin-top: 30px;
+}
+.bottom{
+    margin-top: 30px;
+}
+
+/*call area*/
+.call{
+    background-color: #352D2F; 
+    height: 150px;
+    width: 100%;
+}
+
+/*journal*/
+h3{
+    font-size: 20px;
 }
