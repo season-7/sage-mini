@@ -1,9 +1,34 @@
 /*header*/
 .header{
     background-color: #352D2F;
-    height: 600px;
+    height: 550px;
     width: 100%;
 }
 #logo{
     float: left;
+}
+
+/*our-work*/
+.work{
+    height: 500px;
+    width: 100%;
+    
+}
+.left{
+    background-color:#E4EEED;
+    height: 500px;
+    width: 100%;
+
+}
+
+.right{
+    background-color: #F63C3C;
+    height: 500px;
+    width: 100%;
+    
+
+}
+.space{
+    height: 100px;
+    width: 100%;
 }
