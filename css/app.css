@@ -1,8 +1,14 @@
+
+
 /*header*/
 .header{
     background-color: #352D2F;
     height: 550px;
     width: 100%;
+    color: white;
+}
+nav a{
+    margin-left: 5px;
 }
 #logo{
     float: left;
@@ -40,6 +46,7 @@
     background-color: whitesmoke;
     height: 400px;
     width: 100%;
+    margin-top: 30px;
     
 }
 .top{
