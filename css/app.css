@@ -1,5 +1,7 @@
 
-
+.container{
+    background-color: whitesmoke;
+}
 /*header*/
 .header{
     background-color: #352D2F;
